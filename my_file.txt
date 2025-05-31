@@ -1,2 +1,3 @@
 Git branch demo.
 feature-1 change
+feature-2 change
